@@ -21,3 +21,8 @@ the following is the detail page of the food or drink
 
 
 ![Screenshot_20211205-115035_RESTOURAN AND BAR](https://user-images.githubusercontent.com/95010003/144733371-f3816dda-ba4a-4322-b748-d4a7e65d3ed8.jpg)
+
+
+Profile Page
+
+![Screenshot_20211205-131450_RESTOURAN AND BAR](https://user-images.githubusercontent.com/95010003/144734709-e3ab35df-0d45-42d2-b059-dde43d589d43.jpg)
