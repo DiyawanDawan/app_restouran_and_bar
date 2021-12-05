@@ -17,39 +17,50 @@
                 android:id="@+id/imageViewpp"
                 android:scaleType="fitXY"
                 android:src="@drawable/diyawanpp"
-                android:layout_width="382dp"
+                android:layout_width="match_parent"
                 android:layout_height="355dp"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="18dp"
                 android:textSize="25dp"
+                android:padding="5dp"
+                android:textColor="@color/black"
                 android:text="UNIVERSITAS HAMZANWADI"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="20dp"
+                android:padding="5dp"
+                android:textColor="@color/black"
                 android:text="Fakultas Teknik"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="20dp"
+                android:padding="5dp"
+                android:textColor="@color/black"
                 android:text="Teknik Informatika"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="20dp"
+                android:padding="5dp"
+                android:textColor="@color/black"
                 android:text="Diyawan"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="20dp"
+                android:padding="5dp"
+                android:textColor="@color/black"
                 android:text="Nim 200602006"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@color/purple_700"
                 android:textSize="17dp"
+                android:padding="5dp"
                 android:text="@string/github_https_github_com_diyawandawan_n_email_diyawandawan_gmail_com_n_twiter_diyawan4_n_youtube_developers_n_linkedid_https_www_linkedin_com_in_diyawan_dawan_a22394215"/>
         </LinearLayout>
 
