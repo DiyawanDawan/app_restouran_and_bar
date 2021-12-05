@@ -4,48 +4,53 @@
             android:layout_height="match_parent"
     android:background="@color/cardview_dark_background"
             android:padding="14dp">
-    <LinearLayout
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-        <ImageView
-            android:id="@+id/imageViewpp"
+            <ImageView
+                android:id="@+id/imageViewpp"
                 android:scaleType="fitXY"
-            android:src="@drawable/diyawanpp"
-                android:layout_width="380dp"
-                android:layout_height="350dp"/>
-        <TextView
+                android:src="@drawable/diyawanpp"
+                android:layout_width="382dp"
+                android:layout_height="355dp"/>
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="18dp"
                 android:textSize="25dp"
                 android:text="UNIVERSITAS HAMZANWADI"/>
-        <TextView
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="20dp"
                 android:text="Fakultas Teknik"/>
-        <TextView
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="20dp"
                 android:text="Teknik Informatika"/>
-        <TextView
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="20dp"
                 android:text="Diyawan"/>
-        <TextView
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="20dp"
                 android:text="Nim 200602006"/>
-        <TextView
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@color/purple_700"
                 android:textSize="17dp"
                 android:text="@string/github_https_github_com_diyawandawan_n_email_diyawandawan_gmail_com_n_twiter_diyawan4_n_youtube_developers_n_linkedid_https_www_linkedin_com_in_diyawan_dawan_a22394215"/>
-       </LinearLayout>
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
 
 </ScrollView>
